@@ -3939,4 +3939,15 @@
 			"8bd7f23c-4a11-4aac-919a-a449efad999a" "f2793c1c-1072-47a8-9419-64fffdcca4af"
 		)
 	)
+	(model "models/Seeeduino XIAO SAMD21 v4.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
 )

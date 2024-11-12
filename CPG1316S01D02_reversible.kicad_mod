@@ -256,7 +256,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "3b23166d-9248-4376-bd4d-096ec4449a4d")
 	)
-	(model "${KIPRJMOD}/PG1316S--装配体.STEP"
+	(model "models/PG1316S--装配体.STEP"
 		(offset
 			(xyz -4.75 -6.25 -10.25)
 		)
